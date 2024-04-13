@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Rohit kumar",
+      "employee_id": "01432",
+      "department": "ODIN"
+    },
+    {
+      "name": "Nishant Kumar",
+      "employee_id": "01431",
+      "department": "ODIN"
+    },
+    {
+      "name": "Jaya Prakash",
+      "employee_id": "01436",
+      "department": "ODIN"
+    },
+    {
+        "name": "Swapnil Jain",
+        "employee_id": "01433",
+        "department": "ODIN"
+      },
+      {
+        "name": "Tapish Katiyar",
+        "employee_id": "01431",
+        "department": "ODIN"
+      },
+      {
+        "name": "Krishna Jain",
+        "employee_id": "01426",
+        "department": "ODIN"
+      },
+      {
+        "name": "Ankit Kumar",
+        "employee_id": "01434",
+        "department": "ODIN"
+      },
+      {
+        "name": "Bharat Kumar Paliwal",
+        "employee_id": "01465",
+        "department": "ODIN"
+      },
+      {
+        "name": "Ashi Dubey",
+        "employee_id": "01498",
+        "department": "ODIN"
+      }
+  ]
+  
